@@ -32,7 +32,7 @@ Module.register("compliments", {
 			]
 		},
 		updateInterval: 30000,
-		remoteFile: null,
+		remoteFile: ext_compliments.json,
 		fadeSpeed: 4000,
 		morningStartTime: 3,
 		morningEndTime: 12,
