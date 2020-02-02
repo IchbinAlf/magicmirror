@@ -12,8 +12,7 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!",
-				"Model oder was!?"
+				"Hey there sexy!"
 			],
 			morning: [
 				"Good morning, handsome!",
