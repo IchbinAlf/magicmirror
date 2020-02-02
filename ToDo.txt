@@ -1,0 +1,4 @@
+ToDo-List MagicMirror2
+
+-Sprachpacket für "Deutsch" ev "Schwiizerdütsch" :)
+-ToDo-List nach Prios sortieren
