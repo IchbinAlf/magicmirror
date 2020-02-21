@@ -44,13 +44,15 @@ var config = {
 		},
 		{
 			module: "calendar",
-			header: "US Holidays",
+			header: "EKZ Eltop AG - Florian Schneider",
 			position: "top_left",
 			config: {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"					}
+						//webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"					
+						url: "http://owamail.ekz.ch/owa/calendar/85c3e684f935464c875162c87698af19@ekzeltop.ch/0b1d02ba55a441ceaf0c79bb11a02cab9775395156537894738/S-1-8-2677894748-2774667430-2945362114-942431456/reachcalendar.ics"
+					}
 				]
 			}
 		},

@@ -2,6 +2,13 @@ ToDo-List MagicMirror2
 
 -Sprachpacket für "Deutsch" ev "Schwiizerdütsch" :)
 -ToDo-List nach Prios sortieren
+-Server Only Funktion?
+-PIR
+-Kamera
+-Voice Kit (Goolge Assistent)
+
+
+
 
 
 Error nach Änderung in compliments.js:
